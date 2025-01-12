@@ -1,0 +1,10 @@
+<!-- (The individual app item layout for RecyclerView) -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/appName"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:padding="16dp"
+    android:gravity="center"
+    android:textColor="#000"
+    android:textSize="18sp" />
