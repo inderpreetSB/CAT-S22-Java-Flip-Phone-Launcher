@@ -12,7 +12,7 @@ A lightweight and highly optimized custom Android launcher tailored for flip pho
 ## How to Use  
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/custom-android-launcher.git  
+   git clone https://github.com/inderpreetSB/custom-android-launcher.git  
    ```  
 2. Open the project in **Android Studio**.  
 3. Build and run the project on an emulator or physical device (Android 11 or higher).  
